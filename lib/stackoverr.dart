@@ -26,6 +26,7 @@ class _StackOverflowwState extends State<StackOverfloww> {
                 ),
 
             Align(
+
                 alignment: Alignment.bottomRight,
                 child: Icon(Icons.add_circle_outline))
           ],
